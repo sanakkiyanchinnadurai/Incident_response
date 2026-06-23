@@ -1,0 +1,13 @@
+$Recycle.Bin
+Documents and Settings
+DumpStack.log.tmp
+inetpub
+pagefile.sys
+PerfLogs
+ProgramData
+Program Files
+Program Files (x86)
+Recovery
+System Volume Information
+Users
+Windows
